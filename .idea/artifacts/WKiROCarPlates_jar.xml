@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WKiROCarPlates:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WKiROCarPlates_jar</output-path>
+    <root id="archive" name="WKiROCarPlates.jar">
+      <element id="module-output" name="WKiROCarPlates" />
+    </root>
+  </artifact>
+</component>
